@@ -92,8 +92,6 @@ body {
   margin-left: auto;
   padding-right: 16px;
   padding-left: 16px;
-  outline: 2px solid red;
-  outline-offset: -2px;
 }
 
 /* Tablet screen */
